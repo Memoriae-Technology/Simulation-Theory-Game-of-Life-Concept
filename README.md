@@ -1,4 +1,7 @@
 
+![memoriae-min](https://github.com/Memoriae-Technology/Simulation-Theory-Game-of-Life-Concept/assets/81470496/6e897766-0662-4fe9-9855-07d3cc163ffb)
+
+
 # Cellular Anomaly Discovery Simulation
 
 ## Project Overview
