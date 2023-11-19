@@ -2,7 +2,7 @@
 ![memoriae-min](https://github.com/Memoriae-Technology/Simulation-Theory-Game-of-Life-Concept/assets/81470496/6e897766-0662-4fe9-9855-07d3cc163ffb)
 
 
-# Cellular Anomaly Discovery Simulation
+# Cellular Anomaly Discovery Simulation / Simulation Theory / Game of Life Concept
 
 ## Project Overview
 This project is a Python-based simulation that draws inspiration from Conway's Game of Life, with a unique twist to explore concepts related to simulation theory. It utilizes a grid of cells where anomalies are randomly placed, and cells have the capability to 'discover' these anomalies based on certain conditions or proximity. The simulation aims to provide a visual and interactive representation of how the density of cells affects the rate at which anomalies are discovered, paralleling the philosophical exploration of simulation theory in relation to our universe.
